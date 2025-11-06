@@ -290,6 +290,7 @@ h2 {
   main, #maintext, #about-text, ul {
     max-width: 100% !important;
     padding: 0 15px !important;
+    margin-top: 140px !important;
   }
 
   /* Шапка — в столбик, по центру */
